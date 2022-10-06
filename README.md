@@ -23,3 +23,5 @@
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/11TH.DBMS.program
 ## Experiment 13
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/13TH.DBMS.program
+## Experiment 14
+[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/14TH.DBMS.program
