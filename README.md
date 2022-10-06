@@ -9,3 +9,5 @@
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/4thDBMS.program
 ## Experiment 5
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/5th.DBMS.program
+## Experiment 6
+[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/6TH.DBMS%20program
