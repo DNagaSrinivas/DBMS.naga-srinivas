@@ -41,3 +41,11 @@
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/20TH.DBMS.program
 ## Experiment 21
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/21ST.DBMS.program
+## Experiment 22
+[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/22ND.DBMS.program
+## Experiment 23
+[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/23RD.DBMS.program
+## Experiment 24
+[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/24TH.DBMS.program
+## Experiment 25
+[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/25TH.DBMS.program
