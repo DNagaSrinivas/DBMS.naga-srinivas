@@ -47,5 +47,4 @@
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/23RD.DBMS.program
 ## Experiment 24
 [SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/24TH.DBMS.program
-## Experiment 25
-[SQL Queries]https://github.com/DNagaSrinivas/DBMS.naga-srinivas/blob/main/25TH.DBMS.program
+
